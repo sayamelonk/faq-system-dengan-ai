@@ -10,7 +10,7 @@ interface LoginPageProps {
 export default function LoginPage({ onBackToMain, onLoginSubmit }: LoginPageProps) {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
-  
+
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [errorStatus, setErrorStatus] = useState("");
 
@@ -38,7 +38,7 @@ export default function LoginPage({ onBackToMain, onLoginSubmit }: LoginPageProp
 
   return (
     <div className="min-h-screen bg-[#f8fafc] flex flex-col font-sans p-6 relative justify-center">
-      
+
       {/* Back button on top left */}
       <div className="absolute top-6 left-6">
         <button
@@ -52,7 +52,7 @@ export default function LoginPage({ onBackToMain, onLoginSubmit }: LoginPageProp
       </div>
 
       <div className="w-full max-w-md mx-auto">
-        <motion.div 
+        <motion.div
           className="bg-white rounded-3xl p-8 border border-slate-200 shadow-md overflow-hidden"
           initial={{ opacity: 0, scale: 0.98 }}
           animate={{ opacity: 1, scale: 1 }}
@@ -133,11 +133,11 @@ export default function LoginPage({ onBackToMain, onLoginSubmit }: LoginPageProp
           </form>
 
           {/* Indigo/grey soft info wrap for demo credentials */}
-          <div className="mt-6 bg-[#f8fafc] border border-gray-100 p-4 rounded-xl text-center">
+          {/* <div className="mt-6 bg-[#f8fafc] border border-gray-100 p-4 rounded-xl text-center">
             <p className="text-xs text-slate-500 font-medium tracking-tight">
               Demo: <span className="text-slate-400">username</span> <span className="font-semibold text-slate-700">admin</span>, <span className="text-slate-400">password</span> <span className="font-semibold text-slate-700">admin123</span>
             </p>
-          </div>
+          </div> */}
         </motion.div>
       </div>
     </div>
