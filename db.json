@@ -1,0 +1,47 @@
+[
+  {
+    "id": "q-1780127683214",
+    "name": "test123",
+    "email": "test123@gmail.com",
+    "questionText": "bisakah saya berhasil mengirim paket dari bandung ke jakarta pakai kapal ?",
+    "status": "Menunggu",
+    "createdAt": "30 Mei 2026, 15.54",
+    "aiDraft": "Halo test123,\n\nTerima kasih telah menghubungi kami di Jadimaju. Semoga Anda senantiasa dalam keadaan sehat.\n\nMenjawab pertanyaan Anda mengenai pengiriman paket dari Bandung ke Jakarta menggunakan kapal laut, mohon maaf saat ini rute tersebut tidak dapat dilakukan menggunakan jalur laut. Hal ini dikarenakan kondisi geografis Kota Bandung yang berada di dataran tinggi dan tidak memiliki akses pelabuhan laut langsung ke Jakarta. \n\nNamun, Anda tidak perlu khawatir. Pengiriman paket dari Bandung ke Jakarta sangatlah mudah, cepat, dan aman jika menggunakan jalur darat. Berikut adalah beberapa keunggulan pengiriman jalur darat yang kami sediakan untuk rute tersebut:\n\n* **Waktu Pengiriman yang Cepat:** Karena jarak Bandung - Jakarta yang cukup dekat melalui akses tol, paket Anda dapat tiba hanya dalam waktu 1 hari kerja (layanan Express/Sameday) atau 2-3 hari kerja untuk layanan Reguler.\n* **Biaya yang Sangat Terjangkau:** Tarif pengiriman jalur darat jauh lebih ekonomis dibandingkan dengan pengiriman jalur laut atau udara antar-pulau.\n* **Keamanan Paket Terjamin:** Paket Anda akan diproses secara aman dan dapat dipantau statusnya secara real-time melalui sistem pelacakan kami.\n\nJika Anda ingin kami membantu memeriksa tarif pengiriman atau memiliki pertanyaan lebih lanjut mengenai layanan pengiriman darat kami, silakan informasikan estimasi berat paket beserta alamat detail pengirimannya. Kami akan dengan senang hati membantu Anda.\n\nSalam hangat,\nTim Jadimaju",
+    "humanAnswer": "",
+    "isDraftSaved": false
+  },
+  {
+    "id": "q-2",
+    "name": "TEST_User",
+    "email": "test_user@example.com",
+    "questionText": "Bagaimana cara melakukan pembayaran di Jadimaju?",
+    "status": "Terjawab",
+    "createdAt": "30 Mei 2026, 15.11",
+    "aiDraft": "Halo TEST_User,\n\nPembayaran di Jadimaju dapat dilakukan melalui beberapa metode aman, termasuk Transfer Bank (VA), Kartu Kredit, atau e-Wallet (GoPay, OVO, Dana). Anda dapat memilih metode pembayaran yang paling nyaman saat melakukan checkout di aplikasi atau website kami.\n\nSalam hangat,\nTim Jadimaju",
+    "humanAnswer": "Halo TEST_User,\n\nPembayaran di Jadimaju dapat dilakukan melalui beberapa metode aman, termasuk Transfer Bank (VA), Kartu Kredit, atau e-Wallet (GoPay, OVO, Dana). Anda dapat memilih metode pembayaran yang paling nyaman saat melakukan checkout di aplikasi atau website kami.\n\nSalam hangat,\nTim Jadimaju",
+    "isDraftSaved": false,
+    "answeredAt": "30 Mei 2026, 15.14"
+  },
+  {
+    "id": "q-3",
+    "name": "TEST_Budi",
+    "email": "budi_test@example.com",
+    "questionText": "Apakah Jadimaju buka pada hari Minggu?",
+    "status": "Menunggu",
+    "createdAt": "30 Mei 2026, 15.11",
+    "aiDraft": "Halo TEST_Budi,\n\nTerima kasih atas pertanyaan Anda. Mengenai jam operasional Jadimaju pada hari Minggu, kami sarankan Anda untuk memeriksa informasi terkini melalui situs web resmi kami atau aplikasi Jadimaju. Jam operasional dapat bervariasi tergantung pada lokasi atau jenis layanan yang Anda butuhkan.\n\nJika Anda memiliki lokasi spesifik dalam pikiran, mohon informasikan kepada kami agar kami dapat membantu Anda mencari informasinya lebih lanjut.\n\nJangan ragu untuk menghubungi kami kembali jika ada pertanyaan lain yang bisa kami bantu.\n\nSalam hangat,\nTim Jadimaju",
+    "humanAnswer": "",
+    "isDraftSaved": false
+  },
+  {
+    "id": "q-4",
+    "name": "Andi Pratama",
+    "email": "andi@example.com",
+    "questionText": "Bagaimana cara mengembalikan produk yang sudah beli?",
+    "status": "Menunggu",
+    "createdAt": "30 Mei 2026, 15.09",
+    "aiDraft": "Halo Andi Pratama,\n\nTerima kasih atas pertanyaannya. Untuk melakukan pengembalian produk yang telah Anda beli di Jadimaju, Anda dapat mengikuti langkah-langkah berikut:\n\n1. Pastikan produk masih dalam segel asli dan kondisi semula.\n2. Ajukan permohonan melalui menu 'Riwayat Transaksi' di akun Anda, lalu klik 'Ajukan Pengembalian'.\n3. Kirimkan produk ke gudang kami sesuai dengan petunjuk yang diberikan.\n\nTim kami akan melakukan pengecekan dalam waktu 3 hari kerja setelah barang diterima.\n\nSalam hangat,\nTim Jadimaju",
+    "humanAnswer": "",
+    "isDraftSaved": false
+  }
+]

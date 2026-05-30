@@ -1,0 +1,6 @@
+{
+  "name": "FAQ System dengan AI",
+  "description": "Sistem customer care Jadimaju dengan bantuan AI Gemini untuk draf jawaban otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
